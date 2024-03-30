@@ -1,0 +1,98 @@
+body{
+    padding: 3%;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+    background-color: #1f1f38;
+    color: #4db5ff;
+
+
+}
+
+.container{
+    border: 0.5px solid #32a5f7;
+    padding: 2% ;
+    border-radius: 9px;
+    width: 50%;
+}
+
+.head{
+    padding: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.head input{
+    background: transparent;
+    color: #4db5ff;
+    border: none;
+    border-bottom: 2px solid #4db5ff;
+    width: 70%;
+    font-size: 20px;
+}
+
+.head button{
+    padding: 1%;
+    border-radius:10px;
+    background:transparent;
+    border: 2px solid #4db5ff;
+    color: #32a5f7;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.head button:hover{
+    background-color: #4db5ff;
+    color: black;
+    border: 2px solid #1f1f38;
+    
+}
+
+input[type="text"]:focus, 
+input[type="text"]:active,
+input[type="text"]:hover {
+  outline: none; 
+  border-bottom:2px solid  #4db5ff; 
+}
+
+.tasks{
+    padding: 2%;
+    margin: 2%;
+}
+.tasks ul {
+    margin: 2%;
+    padding: 1%;
+
+}
+
+.tasks ul li{
+ 
+    margin: 3%;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.tasks ul li a{
+    text-decoration: none;
+    color:#32a5f7;
+    font-size: 18px;
+    text-transform:uppercase;
+}
+
+.tasks ul li i{
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.fa-times-circle{
+    color: red;
+}
+
+.heading{
+    text-align: center;
+    margin: 2%;
+}
