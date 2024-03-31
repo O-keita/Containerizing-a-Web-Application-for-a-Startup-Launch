@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function(){
             newTask.innerHTML = '<i class="fa fa-check-square" aria-hidden="true"></i> <a href="#">' + tasktext + '</a><i class="fa fa-times-circle" aria-hidden="true" class="remove"></i>';
             
             document.querySelector('.tasks ul').appendChild(newTask)
-
+            
             inputValue.value=""
 
 

@@ -3,10 +3,15 @@
 
 This task manager provides user with an intuitve and simple user interface which helps them to create, track and manage their daily tasks effectively
 
+## Demo
+
+![alt text](<Screenshot from 2024-03-31 12-39-56.png>)
+
 ## Features of the App
 
 #### Adding Tasks
 Allows Users to add their tasks using the text input and the Add button
+
 
 #### Viewing Task
 Users can see all the tasks they added in the task manager
