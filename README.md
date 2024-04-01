@@ -33,11 +33,15 @@ We also use docker to make deloyment easy and compatibilty across different envi
 
 
 ## How to use
+
 Clone the App on github or docker hub to use it in your local machine
 
 clone on github https://github.com/O-keita/Containerizing-a-Web-Application-for-a-Startup-Launch
 
 docker pull: docker pull omarkeita/task-manager
+
+### link to docker hub image
+https://hub.docker.com/repository/docker/omarkeita/task-manager/general
 
 ## How to Build and run Docker Image
 #### In this section, I will be explaining the steps you take to build and run a docker image
