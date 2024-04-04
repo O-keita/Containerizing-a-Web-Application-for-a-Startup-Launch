@@ -1,6 +1,8 @@
 # Containerizing-a-Web-Application-for-a-Startup-Launch
 # Omar's Task Manager
 
+### Link to Slide Deck https://docs.google.com/presentation/d/18Prg_5HxPwmBePvo4AyWihkWx8ENCRpcJLcLL0Hwlvc/edit?usp=sharing
+
 This task manager provides user with an intuitve and simple user interface which helps them to create, track and manage their daily tasks effectively
 
 ## Demo
